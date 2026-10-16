@@ -1,0 +1,34 @@
+{
+  "status": "local-unreleased",
+  "sourcePackage": "full-aigc-skills/gridcraft-skills",
+  "skills": [
+    {
+      "name": "gridcraft-editor",
+      "sha256": "da361446b53e1c72d44fece99a0627bb3d381525cfe349ad79f39bab7bab77b2"
+    },
+    {
+      "name": "gridcraft-clean-table",
+      "sha256": "ff8933ce159ff89cd87260c0a8ecb7a10e2c237dff1a0a5184a653989f183640"
+    },
+    {
+      "name": "gridcraft-sales-summary",
+      "sha256": "696ac14614ae73ee88f1079a74945c01e083c632f04cf5f66a036cb200b877d0"
+    },
+    {
+      "name": "gridcraft-budget-tracker",
+      "sha256": "929c7584799aa8397c0d112446ce2f24e1f1eb354d0b97a852b31763848ff23f"
+    },
+    {
+      "name": "gridcraft-reconcile-data",
+      "sha256": "a0ba43e647166a9e2d656145cbd8aaae96a710d57099dc34a0e614f65488d2cf"
+    },
+    {
+      "name": "gridcraft-formula-audit",
+      "sha256": "9c75dec676e9180608fbeabc5127c6ddcc1f662bc984deb472ac113ffb85b6cc"
+    },
+    {
+      "name": "gridcraft-dashboard",
+      "sha256": "2fe6e4572b0b6c4cd046c5c4edd665e05d85eb98690ef6403fbe5c7a21d7f300"
+    }
+  ]
+}
