@@ -8,6 +8,7 @@
     "gridcraft-editor",
     "gridcraft-formula-audit",
     "gridcraft-reconcile-data",
-    "gridcraft-sales-summary"
+    "gridcraft-sales-summary",
+    "gridcraft-scenario-playbooks"
   ]
 }
