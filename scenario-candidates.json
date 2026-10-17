@@ -8,27 +8,31 @@
     },
     {
       "name": "gridcraft-clean-table",
-      "sha256": "ff8933ce159ff89cd87260c0a8ecb7a10e2c237dff1a0a5184a653989f183640"
+      "sha256": "732270ef8af8a2c1f089d94221771f2d5497c970b39f984bae1d50e3e3bc0f6f"
     },
     {
       "name": "gridcraft-sales-summary",
-      "sha256": "696ac14614ae73ee88f1079a74945c01e083c632f04cf5f66a036cb200b877d0"
+      "sha256": "9ce454c0c5afa6ef7fd96addd128573ad0cc11ec89d9f0b254a50fb73a92b314"
     },
     {
       "name": "gridcraft-budget-tracker",
-      "sha256": "929c7584799aa8397c0d112446ce2f24e1f1eb354d0b97a852b31763848ff23f"
+      "sha256": "76d113d17132c97adcbb92a429845a84a53596347e5e89cd7a8e9ec6feef4d8d"
     },
     {
       "name": "gridcraft-reconcile-data",
-      "sha256": "a0ba43e647166a9e2d656145cbd8aaae96a710d57099dc34a0e614f65488d2cf"
+      "sha256": "0e48c5677e5fd76e880ee1d944f75da00c21bc496cf82ce254051c854a22d50b"
     },
     {
       "name": "gridcraft-formula-audit",
-      "sha256": "9c75dec676e9180608fbeabc5127c6ddcc1f662bc984deb472ac113ffb85b6cc"
+      "sha256": "02a5d53c0a60480131e3aad2930a9f83886a270c993a32fa21d9366c897afcd0"
     },
     {
       "name": "gridcraft-dashboard",
-      "sha256": "2fe6e4572b0b6c4cd046c5c4edd665e05d85eb98690ef6403fbe5c7a21d7f300"
+      "sha256": "a424c76ba6e5a474d643f1411e183e34caed22c7ebd8c6badec944b95cdb3b44"
+    },
+    {
+      "name": "gridcraft-scenario-playbooks",
+      "sha256": "7c0966f2802e0f85bb31bc1453153b6d0d34266ae27215d573201923bbffb79d"
     }
   ]
 }
