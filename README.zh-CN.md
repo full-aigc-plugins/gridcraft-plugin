@@ -13,7 +13,7 @@
 
 > 在智能体宿主里建立并审查真实电子表格——单元格、公式、表格与图表都可继续编辑，而不是交付一张截图。
 
-[![版本](https://img.shields.io/badge/release-0.1.0--dev.20261018.3-1A73E8)](https://github.com/full-aigc-plugins/gridcraft-plugin/releases)
+[![版本](https://img.shields.io/badge/release-0.1.0--dev.20261019.1-1A73E8)](https://github.com/full-aigc-plugins/gridcraft-plugin/releases)
 [![技能](https://img.shields.io/badge/skills-11-00A67E)](#技能)
 [![MCP 工具](https://img.shields.io/badge/MCP%20tools-29-00A67E)](#mcp-工具)
 [![许可证](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
