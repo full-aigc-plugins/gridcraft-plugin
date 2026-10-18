@@ -13,7 +13,7 @@ This plugin belongs to **AIGC content creation**.
 
 > Build and audit a real spreadsheet from your agent host — cells, formulas, tables and charts stay editable instead of arriving as a screenshot.
 
-[![Version](https://img.shields.io/badge/release-0.1.0--dev.20261018.3-1A73E8)](https://github.com/full-aigc-plugins/gridcraft-plugin/releases)
+[![Version](https://img.shields.io/badge/release-0.1.0--dev.20261019.1-1A73E8)](https://github.com/full-aigc-plugins/gridcraft-plugin/releases)
 [![Skills](https://img.shields.io/badge/skills-11-00A67E)](#skills)
 [![MCP tools](https://img.shields.io/badge/MCP%20tools-29-00A67E)](#mcp-tools)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
