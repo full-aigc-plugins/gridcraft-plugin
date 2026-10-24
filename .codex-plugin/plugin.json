@@ -4,12 +4,12 @@
   "skills": "./skills/",
   "mcpServers": "./.codex-plugin/mcp.json",
   "interface": {
-    "displayName": "GridCraft · Spreadsheets",
+    "displayName": "GridCraft（电子表格）",
     "logo": "./assets/official-logo.png",
     "logoDark": "./assets/official-logo.png",
     "composerIcon": "./assets/official-logo.png",
     "composerIconDark": "./assets/official-logo.png",
-    "shortDescription": "Budgets, reconciliation, cleanup and summaries with live formulas"
+    "shortDescription": "预算、对账、清洗与汇总，公式可重算"
   },
-  "description": "Budgets, reconciliation, table cleanup, sales summaries and formula audits. Values keep their units and sources, and formulas stay recalculable."
+  "description": "预算执行、两表对账、表格清洗、销售汇总与公式审计；保留数据单位与来源，公式可重算。"
 }

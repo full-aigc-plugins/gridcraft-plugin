@@ -1,7 +1,7 @@
 {
   "name": "gridcraft",
   "version": "0.1.0-dev.20261019.1",
-  "description": "Budgets, reconciliation, table cleanup, sales summaries and formula audits. Values keep their units and sources, and formulas stay recalculable.",
+  "description": "预算执行、两表对账、表格清洗、销售汇总与公式审计；保留数据单位与来源，公式可重算。",
   "license": "Apache-2.0",
   "skills": "./skills/",
   "author": {

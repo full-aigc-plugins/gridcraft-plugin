@@ -10,8 +10,8 @@
       },
       "interface": {
         "logo": "https://cdn.jsdelivr.net/gh/full-aigc-plugins/gridcraft-plugin@v0.1.0-dev.20261018.3/assets/official-logo.png",
-        "displayName": "GridCraft · Spreadsheets",
-        "shortDescription": "Budgets, reconciliation, cleanup and summaries with live formulas"
+        "displayName": "GridCraft（电子表格）",
+        "shortDescription": "预算、对账、清洗与汇总，公式可重算"
       },
       "version": "0.1.0-dev.20261019.1",
       "icon": "https://cdn.jsdelivr.net/gh/full-aigc-plugins/gridcraft-plugin@v0.1.0-dev.20261019.1/assets/official-logo.png",
@@ -20,7 +20,7 @@
         "authentication": "ON_USE"
       },
       "category": "Productivity",
-      "description": "Budgets, reconciliation, table cleanup, sales summaries and formula audits. Values keep their units and sources, and formulas stay recalculable.",
+      "description": "预算执行、两表对账、表格清洗、销售汇总与公式审计；保留数据单位与来源，公式可重算。",
       "line": "full-aigc",
       "componentTypes": [
         "ui"
@@ -28,6 +28,6 @@
     }
   ],
   "interface": {
-    "displayName": "GridCraft · Spreadsheets"
+    "displayName": "GridCraft（电子表格）"
   }
 }
