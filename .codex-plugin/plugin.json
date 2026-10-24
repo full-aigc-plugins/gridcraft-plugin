@@ -4,10 +4,12 @@
   "skills": "./skills/",
   "mcpServers": "./.codex-plugin/mcp.json",
   "interface": {
-    "displayName": "GridCraft Use",
+    "displayName": "GridCraft · Spreadsheets",
     "logo": "./assets/official-logo.png",
     "logoDark": "./assets/official-logo.png",
     "composerIcon": "./assets/official-logo.png",
-    "composerIconDark": "./assets/official-logo.png"
-  }
+    "composerIconDark": "./assets/official-logo.png",
+    "shortDescription": "Budgets, reconciliation, cleanup and summaries with live formulas"
+  },
+  "description": "Budgets, reconciliation, table cleanup, sales summaries and formula audits. Values keep their units and sources, and formulas stay recalculable."
 }
