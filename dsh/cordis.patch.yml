@@ -8,7 +8,7 @@
 
     - id: mcp-gridcraft-gridcraft-editor
       name: '@deepseek-ai/dsh-mcp-client'
-      disabled: !!js "!process.env.DSH_MCP_GRIDCRAFT"
+      disabled: !!js "process.env.DSH_MCP_GRIDCRAFT === '0'"
       config:
         serverName: "gridcraft-editor"
         toolCallTimeoutMs: 60000
