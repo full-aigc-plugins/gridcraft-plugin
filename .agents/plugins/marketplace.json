@@ -20,7 +20,11 @@
         "authentication": "ON_USE"
       },
       "category": "Productivity",
-      "description": "Budgets, reconciliation, table cleanup, sales summaries and formula audits. Values keep their units and sources, and formulas stay recalculable."
+      "description": "Budgets, reconciliation, table cleanup, sales summaries and formula audits. Values keep their units and sources, and formulas stay recalculable.",
+      "line": "full-aigc",
+      "componentTypes": [
+        "ui"
+      ]
     }
   ],
   "interface": {
