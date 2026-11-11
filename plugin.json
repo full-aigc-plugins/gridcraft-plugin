@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "gridcraft",
-  "version": "0.1.0-dev.20261109.5",
+  "version": "0.1.0-dev.20261111.1",
   "description": "预算、对账、清洗、销售汇总与公式审计：单位和来源保留，公式随时可重算。",
   "license": "Apache-2.0",
   "extensions": {
